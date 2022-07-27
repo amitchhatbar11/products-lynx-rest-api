@@ -10,6 +10,14 @@ Once you clone or download project go into you folder
 > npm install or yarn install  (this will install all dependent libraries)
 ```
 
+```
+> npm start (this will start the server)
+```
+
+Note: Update .env file to run project successfully.
+
+### POSTMAN Collection JSON [link](https://www.getpostman.com/collections/bdc3aa8e71d0f6fbb859)
+
 ### Success Response
 
 ```
